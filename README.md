@@ -15,13 +15,13 @@ Status line: ['o0th/tmux-nova'](https://github.com/o0th/tmux-nova)
 
 &nbsp;&nbsp;&nbsp;&nbsp;This tmux configuration requires the tpm. If you already have tpm installed you can skip this step.\
 &nbsp;&nbsp;&nbsp;&nbsp;To install tmp you can follow their install guides in their official Github repo\
-&nbsp;&nbsp;&nbsp;&nbsp;['here'](https://github.com/tmux-plugins/tpm?tab=readme-ov-file#installation)
+&nbsp;&nbsp;&nbsp;&nbsp;[here](https://github.com/tmux-plugins/tpm?tab=readme-ov-file#installation)
 
 ### 2: Install a nerd font
 
 &nbsp;&nbsp;&nbsp;&nbsp;This tmux configuration also requires a nerd font to properly display icons and sections in the terminal.\
 &nbsp;&nbsp;&nbsp;&nbsp;If you already have a nerd font installed in your terminal you can skip this step.\
-&nbsp;&nbsp;&nbsp;&nbsp;You can find them alongside the installation guides in their official Github repo ['here'](https://github.com/ryanoasis/nerd-fonts)
+&nbsp;&nbsp;&nbsp;&nbsp;You can find them alongside the installation guides in their official Github repo [here](https://github.com/ryanoasis/nerd-fonts)
 
 ### 3: Cloning this repo
 
