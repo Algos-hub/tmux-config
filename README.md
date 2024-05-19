@@ -15,8 +15,7 @@ Vim navigation integration: [christoomey/vim-tmux-navigator](https://github.com/
 ### 1: Install tpm
 
 &nbsp;&nbsp;&nbsp;&nbsp;This tmux configuration requires the tpm. If you already have tpm installed you can skip this step.\
-&nbsp;&nbsp;&nbsp;&nbsp;To install tmp you can follow their install guides in their official Github repo\
-&nbsp;&nbsp;&nbsp;&nbsp;[here](https://github.com/tmux-plugins/tpm?tab=readme-ov-file#installation)
+&nbsp;&nbsp;&nbsp;&nbsp;To install tmp you can follow their install guides in their official Github repo [here](https://github.com/tmux-plugins/tpm?tab=readme-ov-file#installation)
 
 ### 2: Install a nerd font
 
