@@ -27,7 +27,7 @@ Status line: ['o0th/tmux-nova'](https://github.com/o0th/tmux-nova)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Clone this repo and move the .tmux.conf file into your home directory.
 
-```
+```bash
     cd ~
     git clone https://github.com/Algos-hub/tmux-config
     mv ./tmux-config/.tmux.conf ~
